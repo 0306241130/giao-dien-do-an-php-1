@@ -217,7 +217,7 @@ header {
     gap: 1.5rem;
     padding: 2rem 1rem;
   }
-  @media (min-width: 1920px){
+  @media (min-width:1366px){
     .card-shoe-new{
       gap:2rem !important;
     }
