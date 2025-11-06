@@ -217,6 +217,11 @@ header {
     gap: 1.5rem;
     padding: 2rem 1rem;
   }
+  
+@media(min-width:1600px){
+.card-shoe-new{
+  gap: 2rem;
+}
 
 
   .footer-links,
