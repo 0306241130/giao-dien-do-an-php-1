@@ -218,6 +218,7 @@ header {
     padding: 2rem 1rem;
   }
 
+
   .footer-links,
   .footer-brand,
   .footer-contact {
@@ -236,9 +237,9 @@ header {
   }
 }
 @media(min-width:1600px){
-  .card-shoe-new{
-    gap: 2rem;
-  }
+.card-shoe-new{
+  gap: 2rem;
+}
 }
 .card-shoes {
   display: none;
