@@ -236,8 +236,9 @@ header {
   }
 }
 @media(min-width:1600px){
-.card-shoe-new{
-  gap: 2rem;
+  .card-shoe-new{
+    gap: 2rem;
+  }
 }
 .card-shoes {
   display: none;
