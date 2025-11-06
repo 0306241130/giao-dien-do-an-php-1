@@ -237,8 +237,8 @@ header {
   }
 }
 @media(min-width:1600px){
-.card-shoe-new{
-  gap: 2rem;
+.card{
+  margin-right: 0.5rem;
 }
 }
 .card-shoes {
